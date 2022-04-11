@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Harsh Dutta Tewari</h1>
 <h3 align="center">A passionate web developer and competitive programmer</h3>
-
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-tewari&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-tewari" /> </p>
 
 - 🔭 I’m currently working on [Seminar Catalogue](https://devfolio.co/submissions/seminar-catalogue-9873)
 
 - 🌱 I’m currently learning **Node.Js**
 
-- 📫 How to reach me **dashingharsh27@gmail.com**
+- 📫 How to reach me **dashingharsh27@gmail.com**!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
