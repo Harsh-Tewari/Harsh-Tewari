@@ -5,14 +5,14 @@
 
 - 🔭 I’m currently working on [Seminar Catalogue](https://devfolio.co/submissions/seminar-catalogue-9873)
 
-- 🌱 I’m currently learning **Node.Js**
+- 🌱 I’m currently learning **React.Js**
 
 - 📫 How to reach me **dashingharsh27@gmail.com**!
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harsh-dutta-tewari-27086b222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-dutta-tewari-27086b222" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harsh-dutta-tewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-dutta-tewari-27086b222" height="30" width="40" /></a>
 <a href="https://instagram.com/hdtewari01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hdtewari01" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hash_coder27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hash_coder27" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harshtewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshtewari" height="30" width="40" /></a>
